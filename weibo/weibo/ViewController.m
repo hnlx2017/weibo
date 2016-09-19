@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"微博开发");
+    NSLog(@"bug已经修复");
 }
 
 - (void)didReceiveMemoryWarning {
