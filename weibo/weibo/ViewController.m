@@ -23,6 +23,7 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
       NSLog(@"微博2.0开发");
+    NSLog(@"微博2.0开发完成");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
