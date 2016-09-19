@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"1234565");
+    NSLog(@"微博开发");
 }
 
 - (void)didReceiveMemoryWarning {
